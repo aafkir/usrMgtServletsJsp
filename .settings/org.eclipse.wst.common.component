@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="userManagement">
+        <wb-resource deploy-path="/" source-path="/userMgtDirectory" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/fr.hall"/>
+        <property name="context-root" value="userMgtServlets"/>
+        <property name="java-output-path" value="/userManagement/fr.out"/>
+    </wb-module>
+</project-modules>
